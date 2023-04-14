@@ -25,4 +25,4 @@ def power(x, y):
 
 
 def sqrt(x):
-    return x**(-2)
+    return x**(1/2)
